@@ -1,0 +1,25 @@
+{
+  "name": "massdrop-code-challenge",
+  "version": "1.0.0",
+  "description": "massdrop code challenge Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NrupM/massdrop-code-challenge.git"
+  },
+  "author": "Mary Northrup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NrupM/massdrop-code-challenge/issues"
+  },
+  "homepage": "https://github.com/NrupM/massdrop-code-challenge#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1",
+    "request": "^2.83.0"
+  }
+}
